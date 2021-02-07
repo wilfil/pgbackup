@@ -19,6 +19,7 @@ Pass in a full database URL, the storage driver, and the destination.
 S3 Example w/ bucket name:
 
 ::
+
     $ pgbackup postgres://bob@example.com:5432/db_one --driver s3 backups
 
 Local Example w/ local path
