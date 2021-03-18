@@ -42,3 +42,8 @@ If virtualenv isn't active then use:
 ::
 
     $ pipenv run make
+    
+| Column Title | Another Column | One More |
+|:------------------|:----------|:---------|
+| **Bolded text** | Columns don’t need to be aligned | |
+| Or even filled in | | code |
